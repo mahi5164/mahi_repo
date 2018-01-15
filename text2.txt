@@ -1,0 +1,6 @@
+  country: US
+  province: CA
+  city: SanFrancisco
+  organization: Fort-funston
+  email: me@myhost.mydomine
+  ou: MyOrganizationalUnit
